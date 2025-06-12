@@ -86,13 +86,21 @@ Authoritative source on Microsoft's [TechNet](https://technet.microsoft.com/en-u
 | Windows 7 Enterprise N    | YDRBP-3D83W-TY26F-D46B2-XCKRJ |
 | Windows 7 Enterprise E    | C29WB-22CC8-VJ326-GHFJW-H9DH4 |
 
+### Windows Server 2025
+
+| Operating system edition                      | KMS Client Setup Key          |
+| --------------------------------------------- | ----------------------------- |
+| Windows Server 2025 Datacenter: Azure Edition | XGN3F-F394H-FD2MY-PP6FD-8MCRC |
+| Windows Server 2025 Datacenter                | D764K-2NDRG-47T6Q-P8T8W-YP6DF |
+| Windows Server 2022 Standard                  | TVRH6-WHNXV-R9WG3-9XRFY-MY832 |
+
 ### Windows Server 2022
 
-| Operating system edition                  | KMS Client Setup Key          |
-| ----------------------------------------- | ----------------------------- |
+| Operating system edition                      | KMS Client Setup Key          |
+| --------------------------------------------- | ----------------------------- |
 | Windows Server 2022 Datacenter: Azure Edition |	NTBV8-9K7Q8-V27C6-M2BTV-KHMXV |
-| Windows Server 2022 Datacenter            | WX4NM-KYWYW-QJJR4-XV3QB-6VM33 |
-| Windows Server 2022 Standard              | VDYBN-27WPP-V4HQT-9VMD4-VMK7H |
+| Windows Server 2022 Datacenter                | WX4NM-KYWYW-QJJR4-XV3QB-6VM33 |
+| Windows Server 2022 Standard                  | VDYBN-27WPP-V4HQT-9VMD4-VMK7H |
 
 ### Windows Server 2019
 
