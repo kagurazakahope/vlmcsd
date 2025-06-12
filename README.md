@@ -90,6 +90,7 @@ Authoritative source on Microsoft's [TechNet](https://technet.microsoft.com/en-u
 
 | Operating system edition                  | KMS Client Setup Key          |
 | ----------------------------------------- | ----------------------------- |
+| Windows Server 2022 Datacenter: Azure Edition |	NTBV8-9K7Q8-V27C6-M2BTV-KHMXV |
 | Windows Server 2022 Datacenter            | WX4NM-KYWYW-QJJR4-XV3QB-6VM33 |
 | Windows Server 2022 Standard              | VDYBN-27WPP-V4HQT-9VMD4-VMK7H |
 
